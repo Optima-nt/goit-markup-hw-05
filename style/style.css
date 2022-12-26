@@ -164,7 +164,7 @@ border-radius: 4px;
 }
 .menu-link:hover,
 .menu-link:focus {
-    color:var(--accent-color);
+    color: var(--accent-color);
 }
 
 .menu-link.active::after {
